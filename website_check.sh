@@ -9,5 +9,6 @@ while true;do
 	else
 	   echo -e "\e[31m$website is not available...\e[0m"
 	fi
+	# dostupnost se provede kazdych 5 minut.
 	sleep 300s	
 done
