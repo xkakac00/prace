@@ -12,3 +12,5 @@ while true;do
 	# dostupnost se provede kazdych 5 minut.
 	sleep 300s	
 done
+
+echo "Dobrý den! Dnes je 26.9.2023 a já si zkouším GIT"
